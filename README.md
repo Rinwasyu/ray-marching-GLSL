@@ -6,6 +6,8 @@ Ray marching program written in C and GLSL.
 
 - GCC
 - OpenGL 4.6
+- GLEW
+- GLFW
 
 ## Usage
 
