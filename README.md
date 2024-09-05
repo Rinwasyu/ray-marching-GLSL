@@ -1,6 +1,6 @@
 # ray-marching-GLSL
 
-Ray marching program written in GLSL.
+Ray marching program written in C and GLSL.
 
 ## Requirements
 
