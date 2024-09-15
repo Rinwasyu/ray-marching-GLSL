@@ -30,7 +30,6 @@ char *loadFile(char *file_name, size_t *allocated_size) {
 	FILE *fp = fopen(file_name, "rb");
 	if (fp == NULL) {
 		printf("can't open file: %s\n", file_name);
-		exit(1);
 		return NULL;
 	}
 	

@@ -20,7 +20,7 @@
 .PHONY: all clean
 
 PROGNAME ?= main
-CC ?= clang
+CC ?= gcc
 CFLAGS ?= -std=c17 -W -Wall -Wextra -O3
 LDFLAGS ?= -lglfw -lGL -lGLEW -lm
 
